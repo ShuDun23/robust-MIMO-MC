@@ -5,3 +5,5 @@ In this paper, we consider a sub-Nyquist sampled multiple-input multiple-output 
 
 ## Citation
 H. N. Sheng, Z.-Y. Wang, Z. Liu, and H. C. So, “Hybrid ordinary-Welsch function based robust matrix completion for MIMO radar,” IEEE Transactions on Aerospace and Electronic Systems (TAES), 2024.
+Z.-Y. Wang, H. C. So and A. M. Zoubir, “Robust low-rank matrix recovery via hybrid ordinary-Welsch function,” IEEE Trans. Signal Process., vol. 71, pp. 2548-2563, Jul. 2023.
+
