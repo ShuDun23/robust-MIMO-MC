@@ -8,7 +8,7 @@ In this paper, we consider a sub-Nyquist sampled multiple-input multiple-output 
 
 ## Citation
 ```
-@ARTICLE{10748370,
+@article{sheng2025hybrid,
   author={Sheng, Hao Nan and Wang, Zhi-Yong and Liu, Zhaofeng and So, Hing Cheung},
   journal={IEEE Transactions on Aerospace and Electronic Systems}, 
   title={Hybrid Ordinary-Welsch Function-Based Robust Matrix Completion for MIMO Radar}, 
